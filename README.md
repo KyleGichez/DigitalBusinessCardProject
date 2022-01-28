@@ -1,12 +1,11 @@
-#  Digital business card
+# Digital business card
 
-This is a digital business card simple layout I coded as a practice to horn my interface layout skills using HTML and CSS knowledge. 
+This is a digital business card simple layout I coded as a practice to horn my interface layout skills using HTML and CSS knowledge.
 
 ## Table of contents
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,13 +21,7 @@ This is a digital business card simple layout I coded as a practice to horn my i
 You should be able to:
 
 - Build the digital card business from scratch.
--Fill in the information as per your own personal interests.
-
-### Screenshot
-
-![](./project_file.png)
-
-
+- Fill in the information as per your own personal interests.
 
 ### Links
 
@@ -53,18 +46,14 @@ I have learned how to build a digital business card using display flex to align 
   width: 1500px;
   height: 1200px;
 }
-
 ```
 
 ### Continued development
 
 I am still learning how to use the margins and padding to align the cards in one webpage that is not scrollable.
 
-
 ## Author
 
 - Website - [Gichure Maina](https://www.linkedin.com/in/gichure-maina-a45aab202/)
 - Frontend Mentor - [@KyleGichez](https://www.frontendmentor.io/profile/KyleGichez)
 - Twitter - [@KyleGichez](https://www.twitter.com/KyleGichez)
-
-
